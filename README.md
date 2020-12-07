@@ -11,7 +11,7 @@
 
 
 ### Talk to Me
-[![Instagram](https://img.shields.io/badge/Instagram%20-%23e31b72.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/synapsecode)
+[![Instagram](https://img.shields.io/badge/Instagram%20-%23e31b72.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/synapse.code)
 <br>
 [![Personal Website](https://img.shields.io/badge/My%20Personal%20Website%20-%23595859.svg?&style=for-the-badge&logo=profile&logoColor=white)](http://www.manashejmadi.surge.sh)
 
