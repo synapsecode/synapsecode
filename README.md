@@ -3,17 +3,20 @@
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=synapsecode&show_icons=true&theme=radical)
 
 ### Most Used Languages
-- Python & Flask
-- Dart (Flutter)
-- JavaScript
-- Java
-- Other Languages
+<!--![Most Used Languages:](https://img.shields.io/badge/Most%20Ussed%20Languages:%20-%23000.svg?&style=for-the-badge) -->
+![Python](https://img.shields.io/badge/python%20-%233258a8.svg?&style=for-the-badge&logo=python&logoColor=yellow) 
+![Dart](https://img.shields.io/badge/Flutter(Dart)%20-%23d1d7e3.svg?&style=for-the-badge&logo=dart&logoColor=blue)
+![JavaScript](https://img.shields.io/badge/JavaScript%20-%23e3d61b.svg?&style=for-the-badge&logo=javascript&logoColor=white)
+![Java](https://img.shields.io/badge/Java%20-%23e3541b.svg?&style=for-the-badge&logo=java&logoColor=white)
 
-Talk to me on [Instagram!](https://www.instagram.com/synapsecode)
+
+[![Instagram](https://img.shields.io/badge/Instagram%20-%23e31b72.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/synapsecode)
 <br>
 Visit my [My Personal Website](http://www.manashejmadi.surge.sh) (HTTP)
 
-
+<a href="https://www.instagram.com/synapsecode">
+    
+</a>
 
 
 ![](https://komarev.com/ghpvc/?username=synapsecode&style=flat-square&color=blueviolet)
