@@ -10,13 +10,10 @@
 ![Java](https://img.shields.io/badge/Java%20-%23e3541b.svg?&style=for-the-badge&logo=java&logoColor=white)
 
 
+### Talk to Me
 [![Instagram](https://img.shields.io/badge/Instagram%20-%23e31b72.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/synapsecode)
 <br>
-Visit my [My Personal Website](http://www.manashejmadi.surge.sh) (HTTP)
-
-<a href="https://www.instagram.com/synapsecode">
-    
-</a>
+[![Personal Website](https://img.shields.io/badge/My%20Personal%20Website%20-%23595859.svg?&style=for-the-badge&logo=profile&logoColor=white)](http://www.manashejmadi.surge.sh)
 
 
 ![](https://komarev.com/ghpvc/?username=synapsecode&style=flat-square&color=blueviolet)
