@@ -22,6 +22,9 @@
 ![](https://komarev.com/ghpvc/?username=synapsecode&style=flat-square&color=blueviolet)
 
 <!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
 
 <!--
