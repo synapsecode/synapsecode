@@ -21,6 +21,9 @@
 
 ![](https://komarev.com/ghpvc/?username=synapsecode&style=flat-square&color=blueviolet)
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <!--
 **synapsecode/synapsecode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
