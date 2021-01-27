@@ -23,9 +23,11 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 18 January, 2021 - 25 January, 2021
+Week: 19 January, 2021 - 26 January, 2021
 
-Dart     1 hr 38 mins    █████████████████████████   100.00 % 
+Dart     1 hr 42 mins    █████████████████▓░░░░░░░   70.57 % 
+Python   41 mins         ███████░░░░░░░░░░░░░░░░░░   28.47 % 
+HTML     1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.96 % 
 ```
 <!--END_SECTION:waka-->
 
