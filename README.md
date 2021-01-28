@@ -23,11 +23,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 19 January, 2021 - 26 January, 2021
+Week: 20 January, 2021 - 27 January, 2021
 
-Dart     1 hr 42 mins    █████████████████▓░░░░░░░   70.57 % 
-Python   41 mins         ███████░░░░░░░░░░░░░░░░░░   28.47 % 
-HTML     1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.96 % 
+Dart     2 hrs 3 mins    ████████████▓░░░░░░░░░░░░   51.21 % 
+Java     1 hr 15 mins    ███████▓░░░░░░░░░░░░░░░░░   31.17 % 
+Python   41 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.04 % 
+HTML     1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
 ```
 <!--END_SECTION:waka-->
 
