@@ -23,7 +23,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 28 January, 2021 - 04 February, 2021
+Week: 29 January, 2021 - 05 February, 2021
 
 Dart     3 hrs 5 mins    ██████████████░░░░░░░░░░░   56.20 % 
 Python   1 hr 57 mins    █████████░░░░░░░░░░░░░░░░   35.53 % 
