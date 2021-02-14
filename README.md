@@ -23,13 +23,10 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 05 February, 2021 - 12 February, 2021
+Week: 06 February, 2021 - 13 February, 2021
 
-Dart         1 hr 42 mins    ██████████████▓░░░░░░░░░░   58.09 % 
-CSS          34 mins         ████▓░░░░░░░░░░░░░░░░░░░░   19.27 % 
-HTML         22 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.48 % 
-JavaScript   13 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.52 % 
-Groovy       4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.51 % 
+Dart     1 hr 42 mins    ████████████████████████░   95.66 % 
+Groovy   4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.13 % 
 ```
 <!--END_SECTION:waka-->
 
