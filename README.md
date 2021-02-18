@@ -23,10 +23,10 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 09 February, 2021 - 16 February, 2021
+Week: 10 February, 2021 - 17 February, 2021
 
-Dart     3 hrs 30 mins   ████████████████████████▒   97.60 % 
-Groovy   4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.06 % 
+Dart     3 hrs 21 mins   ████████████████████████▒   97.50 % 
+Groovy   4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.15 % 
 ```
 <!--END_SECTION:waka-->
 
