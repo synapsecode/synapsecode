@@ -23,9 +23,10 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 11 February, 2021 - 18 February, 2021
+Week: 12 February, 2021 - 19 February, 2021
 
-Dart   2 hrs 40 mins   █████████████████████████   99.69 % 
+Dart         4 hrs 51 mins   ████████████████████████▒   96.86 % 
+YAML         8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.87 % 
 ```
 <!--END_SECTION:waka-->
 
