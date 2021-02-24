@@ -23,10 +23,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 15 February, 2021 - 22 February, 2021
+Week: 16 February, 2021 - 23 February, 2021
 
-Dart         8 hrs 17 mins   ████████████████████████▓   98.14 % 
-YAML         8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.70 % 
+Dart       8 hrs 27 mins   ██████████████████████▒░░   89.27 % 
+YAML       48 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.56 % 
+Text       8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.53 % 
+Markdown   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
+Other      1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
 ```
 <!--END_SECTION:waka-->
 
