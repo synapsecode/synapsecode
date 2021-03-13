@@ -23,10 +23,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 04 March, 2021 - 11 March, 2021
-
-Dart     34 mins         █████████████████▒░░░░░░░   69.23 % 
-YAML     14 mins         ███████▒░░░░░░░░░░░░░░░░░   29.06 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
