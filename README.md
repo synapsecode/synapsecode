@@ -23,7 +23,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 11 March, 2021 - 18 March, 2021
+Week: 12 March, 2021 - 19 March, 2021
 
 Dart     54 mins         ██████████░░░░░░░░░░░░░░░   40.63 % 
 Java     50 mins         █████████▓░░░░░░░░░░░░░░░   38.28 % 
