@@ -23,13 +23,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 15 March, 2021 - 22 March, 2021
-
-Dart     54 mins         ██████████░░░░░░░░░░░░░░░   40.63 % 
-Java     50 mins         █████████▓░░░░░░░░░░░░░░░   38.28 % 
-HTML     21 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.53 % 
-Python   3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.53 % 
-CSS      2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.66 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
