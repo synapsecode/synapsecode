@@ -23,7 +23,9 @@
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 26 March, 2021 - 02 April, 2021
+
+Dart   5 mins          █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
 
