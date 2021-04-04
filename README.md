@@ -23,9 +23,11 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 26 March, 2021 - 02 April, 2021
+Week: 27 March, 2021 - 03 April, 2021
 
-Dart   5 mins          █████████████████████████   100.00 % 
+CSS          40 mins         ██████████████████▒░░░░░░   72.85 % 
+HTML         9 mins          ████░░░░░░░░░░░░░░░░░░░░░   16.46 % 
+Dart         5 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.64 % 
 ```
 <!--END_SECTION:waka-->
 
