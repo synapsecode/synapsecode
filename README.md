@@ -23,10 +23,11 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 05 April, 2021 - 12 April, 2021
+Week: 06 April, 2021 - 13 April, 2021
 
-Dart     21 hrs 30 mins  █████████████████████████   99.81 % 
-YAML     1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
+Dart     23 hrs 44 mins  ████████████████████████▓   99.26 % 
+YAML     5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
+HTML     5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
 ```
 <!--END_SECTION:waka-->
 
