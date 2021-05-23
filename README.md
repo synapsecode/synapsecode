@@ -12,6 +12,7 @@
 ![HTML](https://img.shields.io/badge/HTML%205%20-%23de5a02.svg?&style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS%203%20-%234f0999.svg?&style=for-the-badge&logo=css3&logoColor=white)
 ![BS](https://img.shields.io/badge/Bootstrap%20-%234f0999.svg?&style=for-the-badge&logo=bootstrap&logoColor=white)
+![Svelte](https://img.shields.io/badge/Svelte%20-%23e3541b.svg?&style=for-the-badge&logo=svelte&logoColor=white)
 
 ### Talk to Me
 [![Instagram](https://img.shields.io/badge/Instagram%20-%23e31b72.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/synapse.code)
