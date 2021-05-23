@@ -1,6 +1,6 @@
 ## Hi there, I'm Manas Hejmadi 👋
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=synapsecode&show_icons=true&theme=radical)
+![Manas' github stats](https://github-readme-stats.vercel.app/api?username=synapsecode&show_icons=true&theme=radical)
 
 ### Most Used Languages and Technologies
 <!--![Most Used Languages:](https://img.shields.io/badge/Most%20Ussed%20Languages:%20-%23000.svg?&style=for-the-badge) -->
@@ -33,17 +33,7 @@ HTML     1 hr 16 mins    █▒░░░░░░░░░░░░░░░░�
 ```
 <!--END_SECTION:waka-->
 
-<!--
-**synapsecode/synapsecode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
---
+<div align="center">
+  <img src="https://assets.website-files.com/5e51b3b0337309d672efd94c/5e51cc5933d368febc351897_footer-img.svg">
+</div>
