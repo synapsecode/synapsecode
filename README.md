@@ -35,7 +35,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 13 July, 2021 - 19 July, 2021
+Week: 14 July, 2021 - 20 July, 2021
 
 Dart       1 hr 1 min      ██████████████▒░░░░░░░░░░   57.09 % 
 Markdown   25 mins         ██████░░░░░░░░░░░░░░░░░░░   23.75 % 
