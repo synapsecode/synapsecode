@@ -35,11 +35,10 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 15 July, 2021 - 21 July, 2021
+Week: 16 July, 2021 - 22 July, 2021
 
-Dart       50 mins         ██████████████████▒░░░░░░   73.02 % 
-Markdown   12 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.55 % 
-YAML       6 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.43 % 
+Dart       36 mins         ██████████████████▓░░░░░░   74.80 % 
+Markdown   12 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.20 % 
 ```
 <!--END_SECTION:waka-->
 
