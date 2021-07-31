@@ -35,7 +35,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 23 July, 2021 - 29 July, 2021
+Week: 24 July, 2021 - 30 July, 2021
 
 JavaScript   31 mins         ████████████████▒░░░░░░░░   65.76 % 
 Svelte       16 mins         ████████▓░░░░░░░░░░░░░░░░   34.24 % 
