@@ -35,7 +35,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 30 July, 2021 - 05 August, 2021
+Week: 31 July, 2021 - 06 August, 2021
 
 Dart         7 hrs 28 mins   ███████████████████▒░░░░░   77.08 % 
 YAML         1 hr 21 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.93 % 
