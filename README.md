@@ -35,11 +35,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 02 August, 2021 - 08 August, 2021
-
-Markdown   21 mins         ██████████▒░░░░░░░░░░░░░░   41.45 % 
-YAML       17 mins         ████████▒░░░░░░░░░░░░░░░░   33.79 % 
-Dart       12 mins         ██████▒░░░░░░░░░░░░░░░░░░   24.75 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
