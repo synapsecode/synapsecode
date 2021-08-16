@@ -35,10 +35,10 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 08 August, 2021 - 14 August, 2021
+Week: 09 August, 2021 - 15 August, 2021
 
-Dart       44 mins         ███████████████░░░░░░░░░░   59.41 % 
-Markdown   30 mins         ██████████░░░░░░░░░░░░░░░   40.39 % 
+Dart       48 mins         ███████████████▒░░░░░░░░░   61.44 % 
+Markdown   30 mins         █████████▓░░░░░░░░░░░░░░░   38.37 % 
 ```
 <!--END_SECTION:waka-->
 
