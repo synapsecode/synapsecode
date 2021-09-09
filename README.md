@@ -35,7 +35,11 @@
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 02 September, 2021 - 08 September, 2021
+
+Dart       20 mins         ███████████████████▓░░░░░   78.66 % 
+Text       3 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.06 % 
+Python     2 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.61 % 
 ```
 <!--END_SECTION:waka-->
 
