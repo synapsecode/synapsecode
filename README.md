@@ -35,11 +35,11 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 02 September, 2021 - 08 September, 2021
+Week: 03 September, 2021 - 09 September, 2021
 
-Dart       20 mins         ███████████████████▓░░░░░   78.66 % 
-Text       3 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.06 % 
-Python     2 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.61 % 
+Dart       21 mins         ████████████████████░░░░░   79.39 % 
+Text       3 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.52 % 
+Python     2 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.23 % 
 ```
 <!--END_SECTION:waka-->
 
