@@ -35,7 +35,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 04 September, 2021 - 10 September, 2021
+Week: 05 September, 2021 - 11 September, 2021
 
 Dart       21 mins         ████████████████████░░░░░   79.39 % 
 Text       3 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.52 % 
