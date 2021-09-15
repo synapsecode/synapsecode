@@ -35,13 +35,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 07 September, 2021 - 13 September, 2021
+Week: 08 September, 2021 - 14 September, 2021
 
-Dart         21 mins         ███████████▓░░░░░░░░░░░░░   47.12 % 
-JavaScript   13 mins         ███████▒░░░░░░░░░░░░░░░░░   29.97 % 
-Svelte       3 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.06 % 
-Text         3 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.84 % 
-Python       2 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.88 % 
+Markdown     26 mins         ████████▓░░░░░░░░░░░░░░░░   35.32 % 
+Dart         23 mins         ████████░░░░░░░░░░░░░░░░░   32.13 % 
+JavaScript   13 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.65 % 
+Svelte       3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.39 % 
+Text         3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 % 
 ```
 <!--END_SECTION:waka-->
 
