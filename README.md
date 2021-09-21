@@ -35,13 +35,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 13 September, 2021 - 19 September, 2021
+Week: 14 September, 2021 - 20 September, 2021
 
-Dart         2 hrs 29 mins   ████████████▒░░░░░░░░░░░░   49.48 % 
-Markdown     1 hr 2 mins     █████░░░░░░░░░░░░░░░░░░░░   20.61 % 
-Properties   47 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.84 % 
-JavaScript   13 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.61 % 
-Groovy       10 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 % 
+Dart         2 hrs 29 mins   ████████████▓░░░░░░░░░░░░   50.99 % 
+Markdown     1 hr 2 mins     █████▒░░░░░░░░░░░░░░░░░░░   21.23 % 
+Properties   47 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.32 % 
+Groovy       10 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.44 % 
+XML          7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.64 % 
 ```
 <!--END_SECTION:waka-->
 
