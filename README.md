@@ -38,13 +38,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 23 September, 2021 - 29 September, 2021
+Week: 24 September, 2021 - 30 September, 2021
 
-Svelte       2 hrs 49 mins   ████████████▒░░░░░░░░░░░░   49.75 % 
-JavaScript   1 hr 15 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.12 % 
-JSON         31 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.30 % 
-TypeScript   31 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.26 % 
-Dart         13 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.06 % 
+JavaScript   1 hr 47 mins    ███████▓░░░░░░░░░░░░░░░░░   30.45 % 
+Svelte       1 hr 15 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.37 % 
+Text         39 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.28 % 
+JSON         32 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.21 % 
+TypeScript   31 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.92 % 
 ```
 <!--END_SECTION:waka-->
 
