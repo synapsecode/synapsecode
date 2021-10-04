@@ -38,13 +38,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 26 September, 2021 - 02 October, 2021
+Week: 27 September, 2021 - 03 October, 2021
 
-JavaScript   8 hrs 43 mins   ████████████▓░░░░░░░░░░░░   50.11 % 
-Solidity     2 hrs 43 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.69 % 
-Text         2 hrs 11 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.61 % 
-Svelte       1 hr 15 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.24 % 
-Markdown     39 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 % 
+JavaScript   9 hrs 35 mins   ████████████▓░░░░░░░░░░░░   50.87 % 
+Solidity     2 hrs 43 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.49 % 
+Text         2 hrs 23 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   12.70 % 
+Svelte       1 hr 15 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.68 % 
+Markdown     55 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.87 % 
 ```
 <!--END_SECTION:waka-->
 
