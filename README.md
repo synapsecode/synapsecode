@@ -38,13 +38,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 01 October, 2021 - 07 October, 2021
+Week: 02 October, 2021 - 08 October, 2021
 
-JavaScript   7 hrs 47 mins   ██████████████░░░░░░░░░░░   55.38 % 
-Solidity     2 hrs 15 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.07 % 
-Text         1 hr 43 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.29 % 
-Go           1 hr 1 min      █▓░░░░░░░░░░░░░░░░░░░░░░░   07.30 % 
-Markdown     39 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.69 % 
+JavaScript   4 hrs 11 mins   ████████████████▒░░░░░░░░   65.27 % 
+Go           1 hr 1 min      ████░░░░░░░░░░░░░░░░░░░░░   16.02 % 
+Text         20 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.20 % 
+Markdown     16 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
+CSS          13 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 % 
 ```
 <!--END_SECTION:waka-->
 
