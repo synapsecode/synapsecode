@@ -38,7 +38,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 16 October, 2021 - 22 October, 2021
+Week: 17 October, 2021 - 23 October, 2021
 
 Dart        7 hrs 7 mins    ██████████████████████░░░   87.71 % 
 Markdown    49 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.10 % 
