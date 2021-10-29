@@ -38,11 +38,10 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 21 October, 2021 - 27 October, 2021
+Week: 22 October, 2021 - 28 October, 2021
 
-Dart       4 hrs 54 mins   ████████████████████████▓   98.78 % 
-Markdown   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
-YAML       1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
+Dart       4 hrs 50 mins   ████████████████████████▓   99.27 % 
+YAML       1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
 ```
 <!--END_SECTION:waka-->
 
