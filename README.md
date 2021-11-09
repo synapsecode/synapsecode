@@ -38,11 +38,9 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 01 November, 2021 - 07 November, 2021
+Week: 02 November, 2021 - 08 November, 2021
 
-Dart       37 mins         █████████████░░░░░░░░░░░░   51.75 % 
-Markdown   21 mins         ███████▒░░░░░░░░░░░░░░░░░   29.75 % 
-YAML       13 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.85 % 
+Markdown   1 min           █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
 
