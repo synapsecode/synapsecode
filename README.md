@@ -38,7 +38,9 @@
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 12 November, 2021 - 18 November, 2021
+
+
 ```
 <!--END_SECTION:waka-->
 
