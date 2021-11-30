@@ -38,9 +38,11 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 22 November, 2021 - 28 November, 2021
+Week: 23 November, 2021 - 29 November, 2021
 
-Solidity     4 mins          ██████████████████████▓░░   90.71 % 
+Solidity     1 hr 25 mins    ████████████▒░░░░░░░░░░░░   49.77 % 
+JavaScript   1 hr 16 mins    ███████████░░░░░░░░░░░░░░   44.49 % 
+JSON         8 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.77 % 
 ```
 <!--END_SECTION:waka-->
 
