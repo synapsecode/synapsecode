@@ -38,12 +38,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 24 November, 2021 - 30 November, 2021
+Week: 25 November, 2021 - 01 December, 2021
 
-JavaScript   2 hrs 17 mins   █████████████▓░░░░░░░░░░░   54.72 % 
-Solidity     1 hr 34 mins    █████████▒░░░░░░░░░░░░░░░   37.74 % 
-JSON         10 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 % 
-Text         7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.97 % 
+JavaScript   2 hrs 56 mins   ██████████░░░░░░░░░░░░░░░   40.33 % 
+Dart         2 hrs 31 mins   ████████▓░░░░░░░░░░░░░░░░   34.58 % 
+Solidity     1 hr 30 mins    █████▒░░░░░░░░░░░░░░░░░░░   20.70 % 
+JSON         10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.37 % 
+Text         7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
 ```
 <!--END_SECTION:waka-->
 
