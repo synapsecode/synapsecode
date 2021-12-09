@@ -38,12 +38,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 01 December, 2021 - 07 December, 2021
+Week: 02 December, 2021 - 08 December, 2021
 
-Dart         8 hrs 1 min     ████████████████████▒░░░░   81.35 % 
-JavaScript   59 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.12 % 
-Svelte       42 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.19 % 
-Bash         7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.23 % 
+Dart         9 hrs 11 mins   █████████████████████▓░░░   86.34 % 
+Svelte       42 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.66 % 
+JavaScript   21 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.30 % 
+Groovy       9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.48 % 
+Bash         7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.14 % 
 ```
 <!--END_SECTION:waka-->
 
