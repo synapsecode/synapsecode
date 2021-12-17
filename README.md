@@ -38,9 +38,10 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 09 December, 2021 - 15 December, 2021
+Week: 10 December, 2021 - 16 December, 2021
 
-Dart   8 hrs 20 mins   █████████████████████████   99.86 % 
+Dart   9 hrs           ████████████████████████▓   99.23 % 
+YAML   3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
 ```
 <!--END_SECTION:waka-->
 
