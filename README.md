@@ -38,10 +38,10 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 11 December, 2021 - 17 December, 2021
+Week: 12 December, 2021 - 18 December, 2021
 
-Dart   12 hrs 23 mins  █████████████████████████   99.43 % 
-YAML   3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
+Dart   12 hrs 54 mins  █████████████████████████   99.45 % 
+YAML   3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
 ```
 <!--END_SECTION:waka-->
 
