@@ -38,11 +38,11 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 18 December, 2021 - 24 December, 2021
+Week: 19 December, 2021 - 25 December, 2021
 
-Dart    9 hrs 54 mins   ██████████████████████▓░░   90.37 % 
-Java    47 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.26 % 
-XML     15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.35 % 
+Dart    12 hrs 50 mins  ███████████████████████░░   92.41 % 
+Java    47 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.73 % 
+XML     15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.86 % 
 ```
 <!--END_SECTION:waka-->
 
