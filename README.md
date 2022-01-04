@@ -38,13 +38,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 27 December, 2021 - 02 January, 2022
+Week: 28 December, 2021 - 03 January, 2022
 
-Dart         18 hrs 50 mins  ██████████████████████▓░░   90.45 % 
-Markdown     1 hr 46 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.51 % 
-JavaScript   5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
-Solidity     4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
-YAML         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
+Dart         17 hrs 51 mins  ██████████████████████░░░   88.15 % 
+Markdown     2 hrs 10 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.78 % 
+JavaScript   5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
+Solidity     4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
+YAML         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
 ```
 <!--END_SECTION:waka-->
 
