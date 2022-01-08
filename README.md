@@ -38,10 +38,10 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 31 December, 2021 - 06 January, 2022
+Week: 01 January, 2022 - 07 January, 2022
 
-Dart       3 hrs 50 mins   ████████████████████▒░░░░   81.96 % 
-Markdown   50 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.89 % 
+Dart       3 hrs 11 mins   ████████████████████░░░░░   79.90 % 
+Markdown   47 mins         █████░░░░░░░░░░░░░░░░░░░░   19.92 % 
 ```
 <!--END_SECTION:waka-->
 
