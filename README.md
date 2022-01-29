@@ -38,11 +38,10 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 21 January, 2022 - 27 January, 2022
+Week: 22 January, 2022 - 28 January, 2022
 
-Dart       18 hrs 10 mins  ███████████████████▓░░░░░   79.31 % 
-Markdown   4 hrs 28 mins   █████░░░░░░░░░░░░░░░░░░░░   19.53 % 
-Java       15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.15 % 
+Dart       15 hrs 43 mins  ███████████████████▓░░░░░   78.24 % 
+Markdown   4 hrs 22 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.74 % 
 ```
 <!--END_SECTION:waka-->
 
