@@ -38,10 +38,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 02 February, 2022 - 08 February, 2022
-
-Dart       2 hrs 6 mins    ██████████████████████░░░   88.20 % 
-Markdown   16 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.80 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
