@@ -38,12 +38,14 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 09 February, 2022 - 15 February, 2022
+Week: 10 February, 2022 - 16 February, 2022
 
-Total: 32 mins
+Total: 2 hrs 28 mins
 
-Dart       18 mins         ██████████████▓░░░░░░░░░░   58.81 % 
-Markdown   13 mins         ██████████▒░░░░░░░░░░░░░░   41.19 % 
+Rust       1 hr 26 mins    ██████████████▒░░░░░░░░░░   57.95 % 
+Text       27 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.19 % 
+Dart       22 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.96 % 
+Markdown   13 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.91 % 
 ```
 <!--END_SECTION:waka-->
 
