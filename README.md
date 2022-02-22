@@ -38,7 +38,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 14 February, 2022 - 20 February, 2022
+From: 13 February, 2022 - To: 20 February, 2022
 
 Rust         2 hrs 11 mins   █████████████▓░░░░░░░░░░░   54.68 % 
 Text         1 hr 33 mins    █████████▓░░░░░░░░░░░░░░░   38.77 % 
