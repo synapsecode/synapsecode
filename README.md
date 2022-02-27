@@ -38,11 +38,9 @@
 
 <!--START_SECTION:waka-->
 ```text
-From: 17 February, 2022 - To: 24 February, 2022
+From: 18 February, 2022 - To: 25 February, 2022
 
-Rust   36 mins         ██████████████░░░░░░░░░░░   56.32 % 
-Dart   24 mins         █████████▒░░░░░░░░░░░░░░░   36.83 % 
-Text   4 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.85 % 
+Dart   11 mins         ████████████████████████▓   98.48 % 
 ```
 <!--END_SECTION:waka-->
 
