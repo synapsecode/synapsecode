@@ -37,11 +37,17 @@
 <br>
 
 <!--START_SECTION:waka-->
-```text
-From: 18 February, 2022 - To: 25 February, 2022
 
-Dart   11 mins         ████████████████████████▓   98.48 % 
+```text
+From: 20 February 2022 - To: 27 February 2022
+
+Dart         8 hrs 38 mins   ████████████████████████░   96.18 %
+Markdown     20 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 %
+YAML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
+Rust         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
+
 <!--END_SECTION:waka-->
 
 
