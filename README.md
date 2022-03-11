@@ -39,11 +39,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 02 March 2022 - To: 09 March 2022
+From: 03 March 2022 - To: 10 March 2022
 
-Markdown   1 min           ██████████████▒░░░░░░░░░░   57.93 %
-Dart       1 min           ██████████▒░░░░░░░░░░░░░░   41.29 %
-YAML       0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.78 %
+Dart       1 hr 14 mins    ███████████████████████░░   91.45 %
+Markdown   6 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.93 %
+Svelte     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 %
+YAML       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 ```
 
 <!--END_SECTION:waka-->
