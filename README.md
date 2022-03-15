@@ -39,7 +39,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 06 March 2022 - To: 13 March 2022
+From: 07 March 2022 - To: 14 March 2022
 
 Dart       1 hr 24 mins    ███████████████████████▓░   94.00 %
 Markdown   4 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.46 %
