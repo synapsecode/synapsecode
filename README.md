@@ -39,10 +39,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 27 April 2022 - To: 04 May 2022
+From: 28 April 2022 - To: 05 May 2022
 
-Dart       2 hrs 6 mins    ████████████████████▒░░░░   81.53 %
-Markdown   28 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.47 %
+Dart         2 hrs 27 mins   ███████████████████░░░░░░   75.56 %
+Markdown     47 mins         ██████░░░░░░░░░░░░░░░░░░░   24.38 %
+YAML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:waka-->
