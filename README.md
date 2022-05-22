@@ -39,7 +39,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 13 May 2022 - To: 20 May 2022
+From: 14 May 2022 - To: 21 May 2022
 
 Svelte       3 hrs 56 mins   █████████████████████▒░░░   85.82 %
 Dart         21 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.74 %
