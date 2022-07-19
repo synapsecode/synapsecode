@@ -39,7 +39,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 10 July 2022 - To: 17 July 2022
+From: 11 July 2022 - To: 18 July 2022
 
 YAML         25 mins         ████████████▓░░░░░░░░░░░░   51.32 %
 Dart         20 mins         ██████████░░░░░░░░░░░░░░░   40.61 %
