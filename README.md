@@ -41,14 +41,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 06 September 2022 - To: 13 September 2022
+From: 07 September 2022 - To: 14 September 2022
 
-JavaScript   6 hrs 40 mins   ██████████████████████░░░   88.22 %
-TypeScript   19 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 %
-JSON         15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.31 %
-Python       8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.88 %
-Text         8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.79 %
-Git Config   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
+JavaScript   9 hrs 5 mins    ██████████████████████▓░░   91.05 %
+TypeScript   19 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.33 %
+JSON         15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.50 %
+Python       8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.45 %
+Text         8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.36 %
+Git Config   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
 ```
 
 <!--END_SECTION:waka-->
