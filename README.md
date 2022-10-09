@@ -41,10 +41,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 30 September 2022 - To: 07 October 2022
+From: 01 October 2022 - To: 08 October 2022
 
-TypeScript   1 hr 41 mins    ████████████████▒░░░░░░░░   65.81 %
-Other        50 mins         ████████░░░░░░░░░░░░░░░░░   32.53 %
+Dart         3 hrs 44 mins   ████████████▒░░░░░░░░░░░░   49.47 %
+TypeScript   2 hrs 27 mins   ████████░░░░░░░░░░░░░░░░░   32.52 %
+Groovy       30 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.64 %
+YAML         14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.29 %
+XML          13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.96 %
+Python       8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.79 %
 ```
 
 <!--END_SECTION:waka-->
