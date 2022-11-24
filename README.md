@@ -41,10 +41,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 15 November 2022 - To: 22 November 2022
+From: 16 November 2022 - To: 23 November 2022
 
-Dart   1 hr 9 mins     ████████████████████████▓   99.27 %
-YAML   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.73 %
+Dart   1 hr 59 mins    █████████████████████████   99.57 %
+YAML   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 %
 ```
 
 <!--END_SECTION:waka-->
