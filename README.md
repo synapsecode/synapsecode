@@ -41,14 +41,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 27 November 2022 - To: 04 December 2022
+From: 28 November 2022 - To: 05 December 2022
 
-Dart         2 hrs 37 mins   █████████████▓░░░░░░░░░░░   55.05 %
-Svelte       1 hr 40 mins    ████████▓░░░░░░░░░░░░░░░░   35.15 %
-Solidity     27 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.49 %
-JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
-YAML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+Svelte       1 hr 40 mins    ███████████▒░░░░░░░░░░░░░   45.98 %
+Dart         1 hr 29 mins    ██████████▒░░░░░░░░░░░░░░   41.24 %
+Solidity     27 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.42 %
+JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
 JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
