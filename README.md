@@ -41,7 +41,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 13 December 2022 - To: 20 December 2022
+From: 14 December 2022 - To: 21 December 2022
 
 Dart         4 hrs 9 mins    ██████████████▒░░░░░░░░░░   57.54 %
 Other        1 hr 55 mins    ██████▓░░░░░░░░░░░░░░░░░░   26.71 %
