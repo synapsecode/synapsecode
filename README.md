@@ -41,11 +41,13 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 19 December 2022 - To: 26 December 2022
+From: 20 December 2022 - To: 27 December 2022
 
-Dart         2 hrs 29 mins   ████████████████████▓░░░░   82.46 %
-TypeScript   29 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.48 %
-Other        1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.06 %
+Dart         1 hr 6 mins     ████████████████░░░░░░░░░   64.02 %
+Svelte       19 mins         ████▓░░░░░░░░░░░░░░░░░░░░   19.06 %
+TypeScript   16 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.71 %
+JavaScript   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.96 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
 ```
 
 <!--END_SECTION:waka-->
