@@ -41,11 +41,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 26 December 2022 - To: 02 January 2023
+From: 27 December 2022 - To: 03 January 2023
 
-Svelte       5 hrs 57 mins   ██████████████████████░░░   87.89 %
-Dart         34 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.45 %
-Other        6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.71 %
+Svelte       5 hrs 37 mins   ██████████████████████░░░   87.50 %
+Dart         34 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.91 %
+Other        6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.80 %
 ```
 
 <!--END_SECTION:waka-->
