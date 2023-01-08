@@ -41,14 +41,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 30 December 2022 - To: 06 January 2023
+From: 31 December 2022 - To: 07 January 2023
 
-Dart         3 hrs 26 mins   █████████████▓░░░░░░░░░░░   54.42 %
-Svelte       2 hrs 30 mins   ██████████░░░░░░░░░░░░░░░   39.50 %
-Markdown     8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.20 %
-XML          6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.81 %
-TypeScript   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 %
-YAML         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 %
+Dart         6 hrs 8 mins    ████████████████▒░░░░░░░░   65.74 %
+Svelte       2 hrs 30 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.83 %
+Markdown     24 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.36 %
+XML          6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.23 %
+YAML         4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.75 %
+TypeScript   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 %
 ```
 
 <!--END_SECTION:waka-->
