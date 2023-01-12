@@ -41,7 +41,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 03 January 2023 - To: 10 January 2023
+From: 04 January 2023 - To: 11 January 2023
 
 Dart         6 hrs 39 mins   ███████████████████░░░░░░   76.09 %
 Svelte       1 hr 23 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.00 %
