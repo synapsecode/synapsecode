@@ -41,11 +41,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 15 January 2023 - To: 22 January 2023
+From: 16 January 2023 - To: 23 January 2023
 
-Dart       3 hrs 59 mins   ██████████████████████▒░░   89.04 %
-Markdown   29 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.91 %
-YAML       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
+Dart       3 hrs 15 mins   ██████████████████████░░░   87.47 %
+Markdown   28 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.52 %
+YAML       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
