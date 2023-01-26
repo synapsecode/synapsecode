@@ -41,10 +41,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 17 January 2023 - To: 24 January 2023
-
-Dart       1 hr 13 mins    █████████████████████▓░░░   87.00 %
-Markdown   10 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.00 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
