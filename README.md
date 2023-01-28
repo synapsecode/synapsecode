@@ -41,7 +41,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+From: 20 January 2023 - To: 27 January 2023
+
+Dart     10 mins         ████████████████████▓░░░░   82.98 %
+YAML     1 min           ████░░░░░░░░░░░░░░░░░░░░░   15.61 %
+Kotlin   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.41 %
 ```
 
 <!--END_SECTION:waka-->
