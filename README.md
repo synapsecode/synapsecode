@@ -3,7 +3,7 @@
 
 [![](https://img.icons8.com/color/32/000000/instagram-new.png)](https://www.instagram.com/synapse.code/)
 [![](https://img.icons8.com/color/32/000000/linkedin.png)](https://www.linkedin.com/in/manas-hejmadi-0b3920183/)
-[![](https://img.icons8.com/color/32/000000/internet--v1.png)](https://www.manashejmadi.ml/)
+[![](https://img.icons8.com/color/32/000000/internet--v1.png)](https://www.manashejmadi.vercel.app/)
 [![](https://img.icons8.com/color/32/000000/twitter.png)](https://twitter.com/manashejmadi)
 
 </span>
@@ -29,9 +29,8 @@
 <br>
 [![Instagram](https://img.shields.io/badge/Instagram%20-%23e31b72.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/synapse.code)
 <br>
-[![Personal Website (New) ](https://img.shields.io/badge/My%20Personal%20Website%20(New)%20-%23595859.svg?&style=for-the-badge&logo=profile&logoColor=white)](https://manashejmadi.ml)
+[![Personal Website (New) ](https://img.shields.io/badge/My%20Personal%20Website%20(New)%20-%23595859.svg?&style=for-the-badge&logo=profile&logoColor=white)](https://manashejmadi.vercel.app)
 <br>
-[![Personal Website (Old) ](https://img.shields.io/badge/My%20Personal%20Website%20(Old)%20-%23595859.svg?&style=for-the-badge&logo=profile&logoColor=white)](http://www.manashejmadi.surge.sh)
 
 
 ![](https://komarev.com/ghpvc/?username=synapsecode&style=flat-square&color=blueviolet)
