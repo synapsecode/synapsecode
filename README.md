@@ -40,11 +40,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 June 2023 - To: 11 June 2023
+From: 05 June 2023 - To: 12 June 2023
 
-Dart       3 hrs 2 mins    ████████████████████▓░░░░   82.49 %
-Markdown   20 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.43 %
-YAML       17 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.08 %
+Dart       2 hrs 45 mins   ████████████████████▒░░░░   81.95 %
+Markdown   18 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.37 %
+YAML       17 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.68 %
 ```
 
 <!--END_SECTION:waka-->
