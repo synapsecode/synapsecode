@@ -40,10 +40,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 August 2023 - To: 12 August 2023
+From: 06 August 2023 - To: 13 August 2023
 
-Dart       3 hrs 54 mins   ███████████████████░░░░░░   75.67 %
-Markdown   1 hr 15 mins    ██████░░░░░░░░░░░░░░░░░░░   24.33 %
+Dart       4 hrs 26 mins   ███████████████████▒░░░░░   77.25 %
+Markdown   1 hr 18 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.75 %
+Text       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
