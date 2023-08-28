@@ -40,13 +40,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 19 August 2023 - To: 26 August 2023
+From: 20 August 2023 - To: 27 August 2023
 
-Python      8 hrs 47 mins   █████████████▓░░░░░░░░░░░   54.32 %
-Dart        5 hrs 18 mins   ████████▒░░░░░░░░░░░░░░░░   32.76 %
-Markdown    1 hr 28 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.08 %
-JSON        8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.90 %
-Other       8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.87 %
+Python      7 hrs 32 mins   ███████████████░░░░░░░░░░   59.96 %
+Dart        3 hrs 26 mins   ███████░░░░░░░░░░░░░░░░░░   27.39 %
+Markdown    1 hr 1 min      ██░░░░░░░░░░░░░░░░░░░░░░░   08.14 %
+JSON        8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.16 %
+Other       8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.07 %
 ```
 
 <!--END_SECTION:waka-->
