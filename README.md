@@ -40,11 +40,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 August 2023 - To: 31 August 2023
+From: 25 August 2023 - To: 01 September 2023
 
-Dart       2 hrs 15 mins   ██████████████████████░░░   87.37 %
-Markdown   17 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.20 %
-Groovy     2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.42 %
+Dart       1 hr 18 mins    ███████████████████████▓░   94.38 %
+Markdown   4 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.62 %
 ```
 
 <!--END_SECTION:waka-->
