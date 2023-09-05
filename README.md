@@ -40,7 +40,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 27 August 2023 - To: 03 September 2023
+From: 28 August 2023 - To: 04 September 2023
 
 Dart              4 hrs 41 mins   █████████████████▒░░░░░░░   69.20 %
 Groovy            47 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.60 %
