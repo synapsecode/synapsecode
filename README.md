@@ -40,13 +40,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 September 2023 - To: 17 September 2023
+From: 11 September 2023 - To: 18 September 2023
 
-Dart            10 hrs 47 mins  ██████████░░░░░░░░░░░░░░░   40.44 %
-Python          5 hrs 33 mins   █████▒░░░░░░░░░░░░░░░░░░░   20.87 %
-JavaScript      3 hrs 4 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.56 %
-Markdown        2 hrs 46 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.44 %
-Text            1 hr 50 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.93 %
+Dart              13 hrs 27 mins  ███████████▓░░░░░░░░░░░░░   46.06 %
+Python            5 hrs 33 mins   ████▓░░░░░░░░░░░░░░░░░░░░   19.04 %
+JavaScript        3 hrs 3 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.44 %
+Markdown          2 hrs 55 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.03 %
+Text              1 hr 50 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.33 %
 ```
 
 <!--END_SECTION:waka-->
