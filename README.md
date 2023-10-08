@@ -40,13 +40,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 September 2023 - To: 06 October 2023
+From: 30 September 2023 - To: 07 October 2023
 
-Dart       12 hrs 30 mins  █████████████████████▒░░░   85.55 %
-Markdown   1 hr 24 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.62 %
-Groovy     14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.68 %
-Makefile   12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.40 %
-YAML       11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.32 %
+Dart       10 hrs 57 mins  █████████████████████▓░░░   87.17 %
+Markdown   1 hr 19 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.53 %
+YAML       10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.43 %
+XML        3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 %
+Makefile   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 %
 ```
 
 <!--END_SECTION:waka-->
