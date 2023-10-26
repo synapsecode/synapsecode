@@ -40,13 +40,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 October 2023 - To: 24 October 2023
+From: 18 October 2023 - To: 25 October 2023
 
-Dart             24 hrs 54 mins  █████████████████▒░░░░░░░   69.32 %
-JavaScript       7 hrs 3 mins    █████░░░░░░░░░░░░░░░░░░░░   19.65 %
-Markdown         2 hrs 4 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.80 %
-Solidity         51 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.40 %
-YAML             31 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.48 %
+Dart             24 hrs 45 mins  █████████████████░░░░░░░░   68.23 %
+JavaScript       7 hrs 3 mins    █████░░░░░░░░░░░░░░░░░░░░   19.45 %
+Markdown         2 hrs 44 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.57 %
+Solidity         51 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.38 %
+YAML             25 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.16 %
 ```
 
 <!--END_SECTION:waka-->
