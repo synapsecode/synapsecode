@@ -40,13 +40,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 December 2023 - To: 14 December 2023
+From: 08 December 2023 - To: 15 December 2023
 
-Dart              29 hrs 58 mins  ███████████████████░░░░░░   76.16 %
-Solidity          2 hrs 5 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.31 %
-Python            1 hr 42 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.34 %
-Markdown          1 hr 39 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.23 %
-YAML              1 hr 30 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.84 %
+Dart              28 hrs 3 mins   ██████████████████▓░░░░░░   74.70 %
+Solidity          2 hrs 5 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.56 %
+Markdown          1 hr 47 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.79 %
+Python            1 hr 45 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.69 %
+YAML              1 hr 21 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 %
 ```
 
 <!--END_SECTION:waka-->
