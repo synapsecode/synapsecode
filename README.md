@@ -40,7 +40,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 27 February 2024 - To: 05 March 2024
+From: 28 February 2024 - To: 06 March 2024
 
 Dart       17 hrs 49 mins  █████████████████████▒░░░   85.79 %
 Markdown   2 hrs 20 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.30 %
