@@ -40,13 +40,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 April 2024 - To: 19 April 2024
+From: 13 April 2024 - To: 20 April 2024
 
-Dart         29 hrs 15 mins  ██████████████████▓░░░░░░   74.73 %
-Markdown     5 hrs 3 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   12.91 %
-Python       1 hr 55 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.93 %
-JavaScript   1 hr 17 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.28 %
-Text         42 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.82 %
+Dart         30 hrs 21 mins  ██████████████████░░░░░░░   72.28 %
+Markdown     5 hrs 31 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.17 %
+Python       2 hrs 36 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.20 %
+JavaScript   1 hr 17 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.06 %
+Text         46 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.84 %
 ```
 
 <!--END_SECTION:waka-->
