@@ -40,13 +40,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 April 2024 - To: 23 April 2024
+From: 17 April 2024 - To: 24 April 2024
 
-Dart         18 hrs 28 mins  █████████████████▒░░░░░░░   69.66 %
-Markdown     4 hrs 7 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.56 %
-Python       2 hrs 27 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.26 %
-YAML         23 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.48 %
-Git Config   22 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.40 %
+Dart         12 hrs 56 mins  █████████████████▒░░░░░░░   69.78 %
+Markdown     3 hrs 32 mins   ████▓░░░░░░░░░░░░░░░░░░░░   19.12 %
+Python       1 hr 9 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.26 %
+YAML         23 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.11 %
+Git Config   15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.37 %
 ```
 
 <!--END_SECTION:waka-->
