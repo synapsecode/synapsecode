@@ -40,7 +40,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 May 2024 - To: 16 May 2024
+From: 10 May 2024 - To: 17 May 2024
 
 Dart         7 hrs 55 mins   ████████████████▒░░░░░░░░   64.72 %
 Python       3 hrs 54 mins   ████████░░░░░░░░░░░░░░░░░   31.92 %
