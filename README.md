@@ -40,13 +40,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 11 May 2024 - To: 18 May 2024
+From: 12 May 2024 - To: 19 May 2024
 
-Dart         6 hrs 48 mins   ████████████████░░░░░░░░░   64.13 %
-Python       3 hrs 42 mins   ████████▓░░░░░░░░░░░░░░░░   34.97 %
-YAML         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 %
-JavaScript   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
