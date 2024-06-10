@@ -40,13 +40,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 June 2024 - To: 08 June 2024
+From: 02 June 2024 - To: 09 June 2024
 
-Dart       2 hrs           █████████████████████░░░░   84.34 %
-Markdown   13 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.23 %
-XML        6 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.46 %
-YAML       1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.14 %
-Swift      1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.82 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
