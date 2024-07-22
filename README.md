@@ -40,7 +40,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 July 2024 - To: 20 July 2024
+From: 14 July 2024 - To: 21 July 2024
 
 Dart         3 hrs 24 mins   █████████████████░░░░░░░░   68.18 %
 JavaScript   1 hr 1 min      █████░░░░░░░░░░░░░░░░░░░░   20.43 %
