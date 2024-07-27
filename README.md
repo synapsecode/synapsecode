@@ -40,12 +40,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 18 July 2024 - To: 25 July 2024
+From: 19 July 2024 - To: 26 July 2024
 
-Dart         0 secs          ████████████▓░░░░░░░░░░░░   50.61 %
-Solidity     0 secs          ██████████▒░░░░░░░░░░░░░░   40.75 %
-JavaScript   0 secs          ██░░░░░░░░░░░░░░░░░░░░░░░   07.62 %
-JSON         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.02 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
