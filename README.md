@@ -40,12 +40,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 31 July 2024 - To: 07 August 2024
+From: 01 August 2024 - To: 08 August 2024
 
-Markdown   2 mins          ████████████████████░░░░░   79.52 %
-Dart       0 secs          ███▓░░░░░░░░░░░░░░░░░░░░░   14.14 %
-Python     0 secs          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.96 %
-Other      0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.38 %
+Markdown   2 mins          ████████████████████░░░░░   80.60 %
+Dart       0 secs          ███▒░░░░░░░░░░░░░░░░░░░░░   12.97 %
+Python     0 secs          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.03 %
+Other      0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.40 %
 ```
 
 <!--END_SECTION:waka-->
