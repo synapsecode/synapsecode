@@ -3,7 +3,7 @@
 
 [![](https://img.icons8.com/color/32/000000/instagram-new.png)](https://www.instagram.com/synapse.code/)
 [![](https://img.icons8.com/color/32/000000/linkedin.png)](https://www.linkedin.com/in/manas-hejmadi-0b3920183/)
-[![](https://img.icons8.com/color/32/000000/internet--v1.png)](https://www.manashejmadi.vercel.app/)
+[![](https://img.icons8.com/color/32/000000/internet--v1.png)](https://manashejmadi.vercel.app/)
 [![](https://img.icons8.com/color/32/000000/twitter.png)](https://twitter.com/manashejmadi)
 
 </span>
