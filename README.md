@@ -40,9 +40,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 August 2024 - To: 12 August 2024
+From: 06 August 2024 - To: 13 August 2024
 
-Dart   0 secs          █████████████████████████   100.00 %
+Dart       13 mins         █████████████████▓░░░░░░░   70.09 %
+JSON       3 mins          █████▒░░░░░░░░░░░░░░░░░░░   20.96 %
+Markdown   1 min           █▓░░░░░░░░░░░░░░░░░░░░░░░   07.05 %
+Bash       0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.89 %
 ```
 
 <!--END_SECTION:waka-->
