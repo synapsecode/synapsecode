@@ -40,9 +40,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 14 August 2024 - To: 21 August 2024
+From: 15 August 2024 - To: 22 August 2024
 
-No activity tracked
+Dart          1 hr 38 mins    █████████████████████▒░░░   85.53 %
+Markdown      14 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.74 %
+YAML          1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.31 %
+CSS           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 %
+Other         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 ```
 
 <!--END_SECTION:waka-->
