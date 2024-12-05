@@ -40,13 +40,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 26 November 2024 - To: 03 December 2024
+From: 27 November 2024 - To: 04 December 2024
 
-JavaScript    7 hrs 51 mins   ██████████████░░░░░░░░░░░   56.02 %
-Dart          3 hrs 58 mins   ███████░░░░░░░░░░░░░░░░░░   28.34 %
-HTML          33 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 %
-Solidity      30 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.63 %
-Bash          30 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.63 %
+JavaScript        7 hrs 51 mins   █████████████▓░░░░░░░░░░░   54.83 %
+Dart              4 hrs 38 mins   ████████░░░░░░░░░░░░░░░░░   32.37 %
+Solidity          30 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 %
+HTML              22 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.60 %
+JSON              16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.91 %
 ```
 
 <!--END_SECTION:waka-->
