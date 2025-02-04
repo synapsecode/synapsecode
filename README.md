@@ -40,13 +40,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 26 January 2025 - To: 02 February 2025
+From: 27 January 2025 - To: 03 February 2025
 
-Dart         21 hrs 35 mins  ███████████████████▒░░░░░   77.68 %
-Bash         2 hrs 20 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.45 %
-Markdown     58 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 %
-Python       50 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.02 %
-Makefile     40 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.42 %
+Dart         24 hrs 40 mins  █████████████████▒░░░░░░░   69.87 %
+Python       5 hrs 36 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.87 %
+Bash         1 hr 12 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 %
+Markdown     57 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.69 %
+JavaScript   54 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.57 %
 ```
 
 <!--END_SECTION:waka-->
