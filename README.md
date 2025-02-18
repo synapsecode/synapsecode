@@ -40,13 +40,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 February 2025 - To: 16 February 2025
+From: 10 February 2025 - To: 17 February 2025
 
-Python       15 hrs 16 mins  ████████▒░░░░░░░░░░░░░░░░   33.81 %
-Docker       8 hrs 34 mins   ████▓░░░░░░░░░░░░░░░░░░░░   19.00 %
-JavaScript   7 hrs 33 mins   ████▒░░░░░░░░░░░░░░░░░░░░   16.74 %
-Dart         6 hrs 18 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.96 %
-Bash         2 hrs 31 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.58 %
+Python       12 hrs 14 mins  ████████░░░░░░░░░░░░░░░░░   31.63 %
+Docker       8 hrs 35 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.20 %
+Dart         6 hrs 40 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.26 %
+JavaScript   4 hrs 31 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.70 %
+Bash         1 hr 51 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.80 %
 ```
 
 <!--END_SECTION:waka-->
