@@ -40,13 +40,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 20 May 2025 - To: 27 May 2025
+From: 21 May 2025 - To: 28 May 2025
 
-Dart                       20 hrs 38 mins  ████████████████▓░░░░░░░░   67.23 %
-JavaScript                 3 hrs 30 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.42 %
-Python                     1 hr 44 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.67 %
-YAML                       1 hr 9 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 %
-Markdown                   1 hr 8 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 %
+Dart                       20 hrs 29 mins  █████████████████▒░░░░░░░   69.14 %
+JavaScript                 3 hrs 37 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.22 %
+YAML                       1 hr 9 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 %
+Markdown                   1 hr 8 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 %
+Python                     59 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.33 %
 ```
 
 <!--END_SECTION:waka-->
