@@ -40,13 +40,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 25 June 2025 - To: 02 July 2025
+From: 26 June 2025 - To: 03 July 2025
 
-Python       7 hrs 43 mins   ██████████████░░░░░░░░░░░   55.96 %
-Dart         3 hrs 13 mins   ██████░░░░░░░░░░░░░░░░░░░   23.35 %
-Markdown     1 hr 28 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.69 %
-Swift        34 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.21 %
-Git Config   16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.03 %
+Python       7 hrs 43 mins   ███████████░░░░░░░░░░░░░░   43.69 %
+Dart         7 hrs 5 mins    ██████████░░░░░░░░░░░░░░░   40.14 %
+Markdown     1 hr 28 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.36 %
+Swift        34 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.29 %
+Git Config   16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.58 %
 ```
 
 <!--END_SECTION:waka-->
