@@ -40,12 +40,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 August 2025 - To: 16 August 2025
+From: 10 August 2025 - To: 17 August 2025
 
-Dart                       6 hrs 35 mins   ██████████████▒░░░░░░░░░░   57.48 %
-Python                     2 hrs 2 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.78 %
+Dart                       6 hrs 35 mins   ██████████████▒░░░░░░░░░░   57.44 %
+Python                     2 hrs 2 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.83 %
 Bash                       1 hr 1 min      ██▒░░░░░░░░░░░░░░░░░░░░░░   08.87 %
-JavaScript                 50 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.38 %
+JavaScript                 50 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.37 %
 YAML                       15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.28 %
 ```
 
