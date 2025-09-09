@@ -40,13 +40,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 31 August 2025 - To: 07 September 2025
+From: 01 September 2025 - To: 08 September 2025
 
-Python       6 hrs 16 mins   ████████████████▒░░░░░░░░   65.28 %
-Markdown     1 hr 12 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.50 %
-Text         51 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.89 %
-Dart         30 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.25 %
-Bash         28 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.98 %
+Python       6 hrs 16 mins   ████████████████████░░░░░   79.69 %
+Text         51 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.85 %
+Bash         28 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.08 %
+Markdown     12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.55 %
+Git Config   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 %
 ```
 
 <!--END_SECTION:waka-->
