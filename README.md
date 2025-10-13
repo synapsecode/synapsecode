@@ -40,13 +40,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 October 2025 - To: 11 October 2025
+From: 05 October 2025 - To: 12 October 2025
 
-Dart         5 hrs 1 min     ██████████░░░░░░░░░░░░░░░   39.98 %
-Python       4 hrs 31 mins   █████████░░░░░░░░░░░░░░░░   36.05 %
-Bash         1 hr 38 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.13 %
-JavaScript   41 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.47 %
-HTML         29 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 %
+Dart         5 hrs 1 min     █████████████▒░░░░░░░░░░░   53.39 %
+Python       1 hr 43 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.41 %
+Bash         1 hr 21 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.42 %
+JavaScript   41 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.30 %
+HTML         29 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.28 %
 ```
 
 <!--END_SECTION:waka-->
