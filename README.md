@@ -40,13 +40,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 11 December 2025 - To: 18 December 2025
+From: 12 December 2025 - To: 19 December 2025
 
-Python       6 hrs 3 mins    ████████████████████████▒   97.06 %
-Bash         7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.09 %
-Docker       3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.81 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
-Text         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+Python   1 hr 45 mins    ███████████████████████░░   91.55 %
+Bash     6 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.81 %
+Text     2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.28 %
+Dart     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 %
 ```
 
 <!--END_SECTION:waka-->
