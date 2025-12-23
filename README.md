@@ -40,12 +40,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 14 December 2025 - To: 21 December 2025
+From: 15 December 2025 - To: 22 December 2025
 
-Python   2 hrs 13 mins   ███████████████████████░░   92.44 %
-Bash     6 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.64 %
-Text     2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.83 %
-Dart     1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.09 %
+Python   1 hr 52 mins    ██████████████████████▓░░   91.15 %
+Bash     6 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.43 %
+Text     2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.14 %
+Dart     1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.28 %
 ```
 
 <!--END_SECTION:waka-->
