@@ -40,12 +40,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 January 2026 - To: 17 January 2026
+From: 11 January 2026 - To: 18 January 2026
 
-Dart         7 mins          █████████████████████░░░░   83.77 %
-HTML         0 secs          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.87 %
-JavaScript   0 secs          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.72 %
-Bash         0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 %
+Dart         38 mins         ███████████████████████▓░   94.44 %
+JavaScript   1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.13 %
+HTML         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.35 %
+Bash         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.07 %
 ```
 
 <!--END_SECTION:waka-->
