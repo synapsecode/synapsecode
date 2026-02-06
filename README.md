@@ -40,13 +40,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 January 2026 - To: 04 February 2026
+From: 29 January 2026 - To: 05 February 2026
 
-Python       2 hrs 16 mins   ███████████████▓░░░░░░░░░   63.20 %
-TypeScript   23 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.65 %
-Bash         22 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.37 %
-Text         13 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.08 %
-Git Config   9 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.52 %
+Python       1 hr 47 mins    ██████████████████░░░░░░░   72.60 %
+Text         13 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.86 %
+Git Config   9 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.46 %
+Bash         9 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.09 %
+HTML         7 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.30 %
 ```
 
 <!--END_SECTION:waka-->
