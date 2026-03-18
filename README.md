@@ -40,11 +40,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 March 2026 - To: 16 March 2026
+From: 10 March 2026 - To: 17 March 2026
 
-TypeScript   1 hr 34 mins          ████████████████████░░░░░   79.77 %
-HTML         13 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   11.23 %
-TSConfig     10 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   09.01 %
+TypeScript   1 hr 31 mins          ███████████████████████░░   92.26 %
+HTML         7 mins                ██░░░░░░░░░░░░░░░░░░░░░░░   07.74 %
 ```
 
 <!--END_SECTION:waka-->
