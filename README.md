@@ -40,12 +40,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 March 2026 - To: 31 March 2026
+From: 25 March 2026 - To: 01 April 2026
 
-Python       25 mins               ███████████████████████▓░   94.39 %
-Dart         0 secs                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.75 %
-JavaScript   0 secs                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.73 %
-Bash         0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
+Python   25 mins               █████████████████████████   99.86 %
+Bash     0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
 ```
 
 <!--END_SECTION:waka-->
