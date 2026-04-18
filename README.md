@@ -40,9 +40,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 April 2026 - To: 16 April 2026
+From: 10 April 2026 - To: 17 April 2026
 
-Python   42 mins               █████████████████████████   100.00 %
+Python       1 hr 15 mins          █████████████▒░░░░░░░░░░░   53.48 %
+Bash         54 mins               █████████▓░░░░░░░░░░░░░░░   38.84 %
+Docker       8 mins                █▓░░░░░░░░░░░░░░░░░░░░░░░   06.33 %
+HTML         0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 %
+Dart         0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 %
 ```
 
 <!--END_SECTION:waka-->
