@@ -40,13 +40,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 May 2026 - To: 28 May 2026
+From: 23 May 2026 - To: 30 May 2026
 
-C          6 mins                ██████████████▒░░░░░░░░░░   57.03 %
-C++        4 mins                ██████████░░░░░░░░░░░░░░░   39.57 %
-Markdown   0 secs                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.68 %
-Other      0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 %
-Text       0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
